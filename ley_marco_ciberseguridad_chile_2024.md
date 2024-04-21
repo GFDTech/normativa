@@ -172,13 +172,13 @@ Todas las instituciones públicas y privadas señaladas en el artículo 4° tend
 * Colaborar con los organismos integrantes del Sistema de Inteligencia del Estado en la identificación de amenazas y la gestión de incidentes o ciberataques
 * Fiscalizar el cumplimiento de las disposiciones de esta ley y sus reglamentos, y de los protocolos, estándares técnicos e instrucciones generales y particulares
 * Instruir el inicio de procedimientos sancionatorios y sancionar las infracciones e incumplimientos en que incurran las instituciones obligadas por la presente ley
-* __ Fomentar la investigación, innovación, capacitación y entrenamiento frente a amenazas, vulnerabilidades e incidentes de ciberseguridad y, en conjunto con los Ministerios de Economía, Fomento y Turismo, y de Ciencia, Tecnología, Conocimiento e Innovación, diseñar planes y acciones que fomenten el desarrollo o fortalecimiento de la industria de ciberseguridad local__
+* __Fomentar la investigación, innovación, capacitación y entrenamiento frente a amenazas, vulnerabilidades e incidentes de ciberseguridad y, en conjunto con los Ministerios de Economía, Fomento y Turismo, y de Ciencia, Tecnología, Conocimiento e Innovación, diseñar planes y acciones que fomenten el desarrollo o fortalecimiento de la industria de ciberseguridad local__
 * Realizar el seguimiento y evaluación de las medidas, planes y acciones elaborados en el ejercicio de sus funciones
 * Informar al CSIRT de la Defensa Nacional y a los CSIRT de los organismos de la Administración del Estado los reportes o alarmas de incidentes de ciberseguridad y de vulnerabilidades existentes
 * Determinar, conforme al informe técnico que el CSIRT Nacional elabore para estos efectos, las categorías de incidentes o vulnerabilidades de ciberseguridad que estarán eximidas de notificación
 * Certificar el cumplimiento de los estándares de ciberseguridad correspondientes por parte de los organismos de la Administración del Estado
 * Otorgar y revocar las acreditaciones correspondientes a los centros de certificación, en los casos y bajo las condiciones que establezca esta ley y el reglamento respectivo
-* __ Establecer los estándares que deberán cumplir las instituciones que provean bienes o servicios al Estado, y las normas de seguridad para el desarrollo de los sistemas y programas informáticos que sean utilizados por los organismos del Estado __
+* __Establecer los estándares que deberán cumplir las instituciones que provean bienes o servicios al Estado, y las normas de seguridad para el desarrollo de los sistemas y programas informáticos que sean utilizados por los organismos del Estado__
 * Establecer estándares de ciberseguridad y deberes de información al público sobre riesgos de seguridad de dispositivos digitales disponibles a consumidores finales
 * Administrar la Red de Conectividad Segura del Estado
 * Coordinar anualmente, durante el mes de octubre, un ejercicio nacional de comprobación de capacidades de ciberseguridad
@@ -307,7 +307,7 @@ Las infracciones a las obligaciones que esta ley prescribe a los sujetos obligad
 ### Artículo 44. Forma de pago de las multas
 ### Artículo 46. Procedimiento de reclamación judicial
 
-### __ Artículo 47. Responsabilidad administrativa del jefe superior del organismo de la Administración del Estado __
+### __Artículo 47. Responsabilidad administrativa del jefe superior del organismo de la Administración del Estado__
 
 ## TÍTULO VIII - Del Comité Interministerial sobre Ciberseguridad
 
@@ -342,7 +342,7 @@ Las infracciones a las obligaciones que esta ley prescribe a los sujetos obligad
 ### Artículo segundo. Primer director
 ### Artículo tercero. ppto interior
 ### Artículo cuarto
-__ Dentro del plazo de ciento ochenta días posteriores a la publicación de la ley, el Ministerio del Interior y Seguridad Pública deberá expedir los reglamentos señalados en esta ley __
+__Dentro del plazo de ciento ochenta días posteriores a la publicación de la ley, el Ministerio del Interior y Seguridad Pública deberá expedir los reglamentos señalados en esta ley__
 ### Artículo quinto.
 ### Artículo sexto.
 ### 
