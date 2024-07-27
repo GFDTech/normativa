@@ -47,16 +47,16 @@ la Administración del Estado estará constituida por:
 
 
 ### Artículo 3 - Principios rectores
-  1 Principio de control de daños
-  1 Principio de cooperación con la autoridad
-  1 Principio de coordinación
-  1 Principio de seguridad en el ciberespacio
-  1 Principio de respuesta responsable
+  1. Principio de control de daños
+  1. Principio de cooperación con la autoridad
+  1. Principio de coordinación
+  1. Principio de seguridad en el ciberespacio
+  1. Principio de respuesta responsable
   la aplicación de medidas para responder a incidentes de ciberseguridad o ciberataques en ningún caso podrá significar la realización o el apoyo a operaciones ofensivas.
-  1 Principio de seguridad informática
+  1. Principio de seguridad informática
   toda persona tiene derecho a adoptar las medidas técnicas de seguridad informática que considere necesarias, incluyendo el cifrado
-  1 Principio de racionalidad
-  1 Principio de seguridad y privacidad por defecto y desde el diseño
+  1. Principio de racionalidad
+  1. Principio de seguridad y privacidad por defecto y desde el diseño
   los sistemas informáticos, aplicaciones y tecnologías de la información deben diseñarse, implementarse y gestionarse teniendo en cuenta la seguridad y la privacidad de los datos personales que procesan
 
 
